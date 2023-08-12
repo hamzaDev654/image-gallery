@@ -1,6 +1,6 @@
 This application is a showcase of high-quality images from Unsplash, displayed as beautiful and classic cards with their details such as owner name, date, and owner's Instagram. It also features a custom infinite scroll without using without npm plugin, and a search function to find images by keywords. The data flow is managed by the Redux toolkit to provide an impressive UI experience.
 
-## IMPORTANT: API Limit ( 50 per hour) 
+### IMPORTANT: API Limit ( 50 per hour) 
 
 Here are some of the major features and their benefits: 
 
